@@ -1,5 +1,6 @@
 # Text-based-game-Python-
 This is an interactive text-based adventure game where players navigate through interconnected rooms, collect critical items, and face a win/lose condition in the final room.
+This was my first programming project in school.
 
 Text-Based Adventure Game
 
